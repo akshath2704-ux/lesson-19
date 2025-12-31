@@ -1,0 +1,10 @@
+import math
+print(math.ceil(45.490))
+print(math.floor(45.890))
+print(math.factorial(5))
+print(math.copysign(2.71,-4))
+print(math.sqrt(9))
+r=math.radians(30)
+print(math.gcd(24,56))
+print(math.factorial(5))
+print(math.fabs(-96.5))
